@@ -1,7 +1,7 @@
 
 1. In this Lab you'll need the Session Handling from Burp suite, to handling features to log back in automatically before sending each request.
 2. Configure the Session Handling
-![](/static/img/Pasted_image_20231107112426.png)
+![](PortSwigger-Solution/static/img/Pasted_image_20231107112426.png)
 3. Configure the macro recorder
 
 ![](/static/img/Pasted_image_20231107112700.png)
